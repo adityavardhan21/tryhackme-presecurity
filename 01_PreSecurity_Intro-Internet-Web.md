@@ -108,3 +108,91 @@ So far, I’ve completed three main sections of the Pre-Security path:
 
 I now have a solid foundation in networking basics, DNS/HTTP, and the core concepts behind cyber roles.  
 Next, I’ll be starting **Linux Fundamentals** and **Windows Fundamentals**, where I plan to include screenshots and command examples as well.
+# Continuing My TryHackMe Journey — Linux & Windows Fundamentals
+
+After completing the first three foundational sections of the Pre-Security path, I moved on to the next major components: **Linux Fundamentals** (Parts 1, 2, and 3) and **Windows Fundamentals** (Parts 1, 2, and 3). These modules helped me understand both operating systems from a practical and security-focused perspective.
+
+---
+
+## Linux Fundamentals (1, 2, and 3)
+
+Working through the Linux modules gave me hands-on experience with the terminal, file systems, permissions, system processes, and essential administrative tools. Linux is heavily used in cybersecurity, so building comfort with the command line is important before moving toward penetration testing.
+
+### Linux Fundamentals 1  
+This module helped me get familiar with Linux navigation and the directory structure.
+
+**What I learned:**  
+- Linux directory hierarchy (/home, /etc, /var, /bin)  
+- Terminal basics: ls, cd, pwd  
+- Reading files using cat, less, head, tail  
+- Creating and manipulating files  
+- Understanding absolute vs relative paths  
+
+### Linux Fundamentals 2  
+This part covered permissions, users, and deeper command-line operations.
+
+**Key learning points:**  
+- File permissions and modifying them (chmod, chown, chgrp)  
+- User and group management  
+- Using sudo for privileged actions  
+- Hard and symbolic links  
+- Useful commands: cp, mv, rm, mkdir, rmdir, grep, find  
+- Editing with nano and vim  
+
+### Linux Fundamentals 3  
+This module focused on system services, processes, and troubleshooting tools.
+
+**Key takeaways:**  
+- Process monitoring (ps, top, htop, kill)  
+- Managing services with systemctl  
+- Analyzing system logs in /var/log  
+- Environment variables  
+- Package management using apt  
+- Network commands (ip, ifconfig, netstat, ss)  
+
+By the end of these modules, I gained confidence navigating and managing Linux from the terminal.
+
+---
+
+## Windows Fundamentals (1, 2, and 3)
+
+Since many environments run on Windows, understanding its internal structure, tools, and configurations is essential. These modules helped me learn how Windows organizes system files, permissions, logs, and user accounts.
+
+### Windows Fundamentals 1  
+This module introduced core Windows components.
+
+**Key things I learned:**  
+- Navigating File Explorer and system directories  
+- Control Panel vs Settings  
+- Important folders like System32, Users, Program Files  
+- Basic use of Task Manager  
+- Introduction to Command Prompt  
+
+### Windows Fundamentals 2  
+This section focused on users, permissions, and system configurations.
+
+**What I learned:**  
+- Managing users and groups  
+- Using “net user” commands  
+- NTFS permissions  
+- Introduction to the Windows Registry  
+- Basics of Local Security Policy  
+
+### Windows Fundamentals 3  
+This part covered monitoring and administrative tools used in real Windows environments.
+
+**Key takeaways:**  
+- Event Viewer and log analysis  
+- Managing services using services.msc  
+- System information with msinfo32  
+- Task Scheduler basics  
+- Introduction to PowerShell  
+- Windows Defender and Firewall basics  
+
+These tools are essential for both security monitoring and understanding how attackers interact with Windows systems.
+
+---
+
+## Summary
+
+With Linux and Windows Fundamentals completed, I’ve now finished all the core foundation sections of the Pre-Security path. These operating system fundamentals are important before moving into more advanced concepts like privilege escalation, exploitation techniques, and penetration testing pathways. I will continue documenting each step as I progress deeper into cybersecurity.
