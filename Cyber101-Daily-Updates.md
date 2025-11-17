@@ -47,4 +47,4 @@ Being able to find the right information quickly is a core skill for penetration
 ---
 
 This completes Day 1 of my Cyber101 journey.  
-Tomorrow, I will continue with the next topic and update this file with my progress.
+Tomorrow, I will continue with the next topic and update this file with my progress. 
