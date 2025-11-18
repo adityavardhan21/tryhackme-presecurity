@@ -48,7 +48,7 @@ Being able to find the right information quickly is a core skill for penetration
 
 This completes Day 1 of my Cyber101 journey.  
 Tomorrow, I will continue with the next topic and update this file with my progress. 
-# Linux Fundamentals — Cyber101 (Write-Up) (Nov 18 , 2025 )
+## Day 2 Linux Fundamentals  — Cyber101 (Write-Up) (Nov 18 , 2025 )
 
 Over the past sessions, I worked through the *Linux Fundamentals* modules in the **Cyber101** path on TryHackMe. Even though I covered Linux earlier in the Pre-Security path, this time I focused on using it from a practical cybersecurity angle — commands, permissions, navigation, and the basic mindset needed to work in a real system.
 
