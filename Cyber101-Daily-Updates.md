@@ -133,3 +133,68 @@ Next step: revisiting Windows Fundamentals, capturing screenshots for both Linux
 
 ---
 
+# Cyber101 Progress — Windows Fundamentals Completed (Before Active Directory) (Nov 20 , 2025 ) 
+
+I’ve finished all three parts of the **Windows Fundamentals** section in the Cyber101 path on TryHackMe. I’m stopping right before *Active Directory Basics* because it’s an important topic and I want to give it proper time and attention. Here’s everything I’ve covered so far.
+
+---
+
+## 🔹 Windows Fundamentals 1 — Getting Familiar With the System
+
+This section helped me understand how Windows is structured behind the scenes.  
+I went through key system components, navigation, and explored how Windows manages files and settings.
+
+### What I learned:
+- The Windows directory structure  
+- System Information and Control Panel basics  
+- User profiles and system settings  
+- Navigating File Explorer properly  
+
+---
+
+## 🔹 Windows Fundamentals 2 — CMD & PowerShell Basics
+
+This part focused on using the command-line tools in Windows — **CMD** and **PowerShell**.  
+I learned how system information, networking details, and basic operations can be done directly through commands.
+
+### Commands I practiced (CMD):
+```
+whoami
+ipconfig
+dir
+```
+
+### Commands I practiced (PowerShell):
+```
+Get-ChildItem
+Get-Process
+```
+
+These tools are essential in cybersecurity for enumeration, investigation, and automation.
+
+---
+
+## 🔹 Windows Fundamentals 3 — Processes, Task Manager & Security
+
+This was the practical part that connected Windows to actual security workflows.  
+I explored how Windows handles processes, services, updates, and security features.
+
+### Key things I worked through:
+- Understanding the **Task Manager** (processes, startup, details)
+- Checking active services using `services.msc`
+- Exploring Windows Defender’s security settings
+- Basic system monitoring concepts
+
+These areas form the base of how attackers and defenders interact with Windows systems.
+
+---
+
+## 🔸 Status Update (Before Active Directory)
+
+I’m pausing here before starting **Active Directory Basics**.  
+This topic is extremely important in cybersecurity — especially for penetration testing, privilege escalation, and corporate network understanding — so I want to learn it properly.
+
+Next step:  
+I’ll start the Active Directory module, take my time with it, and then post the next detailed update once I complete it.
+
+---
